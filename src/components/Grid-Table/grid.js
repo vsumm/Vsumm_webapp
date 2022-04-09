@@ -3,6 +3,7 @@ import { AgGridReact } from 'ag-grid-react';
 import 'ag-grid-community/dist/styles/ag-grid.css';
 import 'ag-grid-community/dist/styles/ag-theme-alpine.css';
 // import  RowGroupingModule  from 'ag-grid-community ' 
+import Gridpopup from './App';
 import '../../App.css'; 
 function Grid() {
   const [gridApi,setGridApi]=useState()
@@ -55,7 +56,11 @@ function Grid() {
           // paginationAutoPageSize={true}
           >
         </AgGridReact>
-        
+        <br/>
+        <br/>
+        <br/><br/>
+        <br/>
+        <Gridpopup/>
       </div>
     </div>
   );

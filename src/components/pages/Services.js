@@ -4,7 +4,7 @@ import { AgGridReact } from "ag-grid-react";
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import Grid from "../Grid-Table/grid";
-import LandingPage from "../Videoplayer/LandingPage"
+
 
 const dateFilterParams = {
   comparator: function (filterLocalDateAtMidnight, cellValue) {
@@ -34,16 +34,16 @@ function App() {
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const rowData = [
-    { company: "Toyota", Floor: "Celica", time: 35000, date: "29-03-2022" },
-    { company: "Ford", Floor: "Mondeo", time: 32000, date: "31-03-2022" },
-    { company: "Porsche", Floor: "Boxter", time: 72000, date: "30-03-2022" },
-    { company: "Mers", Floor: "Mers", time: 92000, date: "28-03-2022" },
-    { company: "Mers", Floor: "Mers", time: 92000, date: "27-03-2022" },
+    { company: "Toyota", Floor: "Floor1", group: "group1", date: "08-04-2022" },
+    { company: "Ford", Floor: "Floor2", group: "group2", date: "06-04-2022" },
+    { company: "Porsche", Floor: "Floor3", group: "group3", date: "04-04-2022" },
+    { company: "Mers", Floor: "Floor4", group: "group5", date: "05-04-2022" },
+    { company: "Mers", Floor: "Floor5", group: "group5", date: "07-04-2022" },
   ];
 
   const columns = [
     { headerName: "company", field: "company" },
-    { headerName: "time", field: "time" },
+    { headerName: "group", field: "group" },
     { headerName: "Floor", field: "Floor" },
     {
       headerName: "Date",

@@ -1,0 +1,31 @@
+ [
+    {
+      "id": 1,
+      "name": "Hari",
+      "email": "raj@gmail.com",
+      "phone": "9876543210",
+      "dob": ""
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "",
+      "id": 5
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "",
+      "id": 6
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "",
+      "id": 7
+    }
+    
+  ]
