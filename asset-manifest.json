@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Vsumm_webapp/static/css/main.6b676391.chunk.css",
+    "main.js": "/Vsumm_webapp/static/js/main.0c005b51.chunk.js",
+    "main.js.map": "/Vsumm_webapp/static/js/main.0c005b51.chunk.js.map",
+    "runtime-main.js": "/Vsumm_webapp/static/js/runtime-main.a7b22351.js",
+    "runtime-main.js.map": "/Vsumm_webapp/static/js/runtime-main.a7b22351.js.map",
+    "static/css/2.8647ba78.chunk.css": "/Vsumm_webapp/static/css/2.8647ba78.chunk.css",
+    "static/js/2.352e9b7f.chunk.js": "/Vsumm_webapp/static/js/2.352e9b7f.chunk.js",
+    "static/js/2.352e9b7f.chunk.js.map": "/Vsumm_webapp/static/js/2.352e9b7f.chunk.js.map",
+    "index.html": "/Vsumm_webapp/index.html",
+    "precache-manifest.46bac08249db826d5f0f1b3d4c66fd18.js": "/Vsumm_webapp/precache-manifest.46bac08249db826d5f0f1b3d4c66fd18.js",
+    "service-worker.js": "/Vsumm_webapp/service-worker.js",
+    "static/css/2.8647ba78.chunk.css.map": "/Vsumm_webapp/static/css/2.8647ba78.chunk.css.map",
+    "static/css/main.6b676391.chunk.css.map": "/Vsumm_webapp/static/css/main.6b676391.chunk.css.map",
+    "static/js/2.352e9b7f.chunk.js.LICENSE.txt": "/Vsumm_webapp/static/js/2.352e9b7f.chunk.js.LICENSE.txt",
+    "static/media/video.mp4": "/Vsumm_webapp/static/media/video.220c14ca.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7b22351.js",
+    "static/css/2.8647ba78.chunk.css",
+    "static/js/2.352e9b7f.chunk.js",
+    "static/css/main.6b676391.chunk.css",
+    "static/js/main.0c005b51.chunk.js"
+  ]
+}
