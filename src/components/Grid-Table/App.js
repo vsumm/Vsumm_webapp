@@ -9,7 +9,7 @@ const initialValue = { name: "", email: "", phone: "", videolink: "" }
 function Gridpopup() {
   const actionButton = (params) => {
     setOpen(true)
-    // <ReactPlayer url='https://www.youtube.com/watch?v=uMQnn8xU7qs' />
+    
     
   }
 
