@@ -1,164 +1,157 @@
 {
-  "posts": [
-    {
-        "cam1": " 2 door close",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:02"
-    },
-    {
-        "cam1": " 1 door close, 1 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:05"
-    },
-    {
-        "cam1": " 2 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:07"
-    },
-    {
-        "cam1": " 1 door open, 1 door close",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:10"
-    },
-    {
-        "cam1": " 2 door close",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:12"
-    },
-    {
-        "cam1": " 1 door close, 1 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:15"
-    },
-    {
-        "cam1": " 2 door open ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:18"
-    },
-    {
-        "cam1": "1 door close, 1 door open",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:21"
-    },
-    {
-        "cam1": " 2 door close, 1 door open ",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:23"
-    },
-    {
-        "cam1": " 2 door close ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:26"
-    },
-    {
-        "cam1": " 1 door open, 1 door close ",
-        "cam2": " 1 door open ",
-        "date": "Fri, 08 April 03:54:28"
-    },
-    {
-        "cam1": "2 door close ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:31"
-    },
-    {
-        "cam1": " 1 door open, 1 door close ",
-        "cam2": " 1 door close ",
-        "date": "Fri, 08 April 03:54:33"
-    },
-    {
-        "cam1": " 2 door close",
-        "cam2": " 2 door close ",
-        "date": "Fri, 08 April 03:54:36"
-    },
-    {
-        "cam1": " 1 door close, 1 door open ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:38"
-    },
-     {
-        "cam1": " 2 door close",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:02"
-    },
-    {
-        "cam1": " 1 door close, 1 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:05"
-    },
-    {
-        "cam1": " 2 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:07"
-    },
-    {
-        "cam1": " 1 door open, 1 door close",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:10"
-    },
-    {
-        "cam1": " 2 door close",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:12"
-    },
-    {
-        "cam1": " 1 door close, 1 door open",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:15"
-    },
-    {
-        "cam1": " 2 door open ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:18"
-    },
-    {
-        "cam1": "1 door close, 1 door open",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:21"
-    },
-    {
-        "cam1": " 2 door close, 1 door open ",
-        "cam2": " 1 door open",
-        "date": "Fri, 08 April 03:54:23"
-    },
-    {
-        "cam1": " 2 door close ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:26"
-    },
-    {
-        "cam1": " 1 door open, 1 door close ",
-        "cam2": " 1 door open ",
-        "date": "Fri, 08 April 03:54:28"
-    },
-    {
-        "cam1": "2 door close ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:31"
-    },
-    {
-        "cam1": " 1 door open, 1 door close ",
-        "cam2": " 1 door close ",
-        "date": "Fri, 08 April 03:54:33"
-    },
-    {
-        "cam1": " 2 door close",
-        "cam2": " 2 door close ",
-        "date": "Fri, 08 April 03:54:36"
-    },
-    {
-        "cam1": " 1 door close, 1 door open ",
-        "cam2": " 1 door close",
-        "date": "Fri, 08 April 03:54:38"
+    "posts": [
+      {
+          "cam1": " 2 door close",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:02"
+      },
+      {
+          "cam1": " 1 door close, 1 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:05"
+      },
+      {
+          "cam1": " 2 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:07"
+      },
+      {
+          "cam1": " 1 door open, 1 door close",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:10"
+      },
+      {
+          "cam1": " 2 door close",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:12"
+      },
+      {
+          "cam1": " 1 door close, 1 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:15"
+      },
+      {
+          "cam1": " 2 door open ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:18"
+      },
+      {
+          "cam1": "1 door close, 1 door open",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:21"
+      },
+      {
+          "cam1": " 2 door close, 1 door open ",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:23"
+      },
+      {
+          "cam1": " 2 door close ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:26"
+      },
+      {
+          "cam1": " 1 door open, 1 door close ",
+          "cam2": " 1 door open ",
+          "date": "Fri, 08 April 03:54:28"
+      },
+      {
+          "cam1": "2 door close ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:31"
+      },
+      {
+          "cam1": " 1 door open, 1 door close ",
+          "cam2": " 1 door close ",
+          "date": "Fri, 08 April 03:54:33"
+      },
+      {
+          "cam1": " 2 door close",
+          "cam2": " 2 door close ",
+          "date": "Fri, 08 April 03:54:36"
+      },
+      {
+          "cam1": " 1 door close, 1 door open ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:38"
+      },
+       {
+          "cam1": " 2 door close",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:02"
+      },
+      {
+          "cam1": " 1 door close, 1 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:05"
+      },
+      {
+          "cam1": " 2 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:07"
+      },
+      {
+          "cam1": " 1 door open, 1 door close",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:10"
+      },
+      {
+          "cam1": " 2 door close",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:12"
+      },
+      {
+          "cam1": " 1 door close, 1 door open",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:15"
+      },
+      {
+          "cam1": " 2 door open ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:18"
+      },
+      {
+          "cam1": "1 door close, 1 door open",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:21"
+      },
+      {
+          "cam1": " 2 door close, 1 door open ",
+          "cam2": " 1 door open",
+          "date": "Fri, 08 April 03:54:23"
+      },
+      {
+          "cam1": " 2 door close ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:26"
+      },
+      {
+          "cam1": " 1 door open, 1 door close ",
+          "cam2": " 1 door open ",
+          "date": "Fri, 08 April 03:54:28"
+      },
+      {
+          "cam1": "2 door close ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:31"
+      },
+      {
+          "cam1": " 1 door open, 1 door close ",
+          "cam2": " 1 door close ",
+          "date": "Fri, 08 April 03:54:33"
+      },
+      {
+          "cam1": " 2 door close",
+          "cam2": " 2 door close ",
+          "date": "Fri, 08 April 03:54:36"
+      },
+      {
+          "cam1": " 1 door close, 1 door open ",
+          "cam2": " 1 door close",
+          "date": "Fri, 08 April 03:54:38"
+      }
+    ]
+    
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  
+  
