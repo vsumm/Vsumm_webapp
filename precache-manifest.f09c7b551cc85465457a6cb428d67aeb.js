@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9c775ccebe6829db7ce5a14983c878e",
+    "revision": "bcbbf6862aee9cf2e0b0272775f27ba6",
     "url": "/Vsumm_webapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vsumm_webapp/static/css/2.8647ba78.chunk.css"
   },
   {
-    "revision": "2f332b3cd52f7f19a43c",
+    "revision": "9c6d997fdee74a547f52",
     "url": "/Vsumm_webapp/static/css/main.dfba71aa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vsumm_webapp/static/js/2.534c9f7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f332b3cd52f7f19a43c",
-    "url": "/Vsumm_webapp/static/js/main.27b2fb5f.chunk.js"
+    "revision": "9c6d997fdee74a547f52",
+    "url": "/Vsumm_webapp/static/js/main.b019479d.chunk.js"
   },
   {
     "revision": "d0453014a462226469d6",
@@ -57,6 +57,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3e9719b541fa897e5aa0071679462489",
-    "url": "/Vsumm_webapp/static/media/video_cut.3e9719b5.mp4"
+    "url": "/Vsumm_webapp/static/media/video.3e9719b5.mp4"
   }
 ]);
