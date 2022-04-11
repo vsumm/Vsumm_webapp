@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Vsumm_webapp/static/css/main.dfba71aa.chunk.css",
-    "main.js": "/Vsumm_webapp/static/js/main.38845a23.chunk.js",
-    "main.js.map": "/Vsumm_webapp/static/js/main.38845a23.chunk.js.map",
+    "main.js": "/Vsumm_webapp/static/js/main.48114ecb.chunk.js",
+    "main.js.map": "/Vsumm_webapp/static/js/main.48114ecb.chunk.js.map",
     "runtime-main.js": "/Vsumm_webapp/static/js/runtime-main.a7b22351.js",
     "runtime-main.js.map": "/Vsumm_webapp/static/js/runtime-main.a7b22351.js.map",
     "static/css/2.8647ba78.chunk.css": "/Vsumm_webapp/static/css/2.8647ba78.chunk.css",
     "static/js/2.534c9f7c.chunk.js": "/Vsumm_webapp/static/js/2.534c9f7c.chunk.js",
     "static/js/2.534c9f7c.chunk.js.map": "/Vsumm_webapp/static/js/2.534c9f7c.chunk.js.map",
     "index.html": "/Vsumm_webapp/index.html",
-    "precache-manifest.a7988d623eea9258209931046385660e.js": "/Vsumm_webapp/precache-manifest.a7988d623eea9258209931046385660e.js",
+    "precache-manifest.a455a90a4b23fc0ecf8c80072029cf41.js": "/Vsumm_webapp/precache-manifest.a455a90a4b23fc0ecf8c80072029cf41.js",
     "service-worker.js": "/Vsumm_webapp/service-worker.js",
     "static/css/2.8647ba78.chunk.css.map": "/Vsumm_webapp/static/css/2.8647ba78.chunk.css.map",
     "static/css/main.dfba71aa.chunk.css.map": "/Vsumm_webapp/static/css/main.dfba71aa.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.8647ba78.chunk.css",
     "static/js/2.534c9f7c.chunk.js",
     "static/css/main.dfba71aa.chunk.css",
-    "static/js/main.38845a23.chunk.js"
+    "static/js/main.48114ecb.chunk.js"
   ]
 }
